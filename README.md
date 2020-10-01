@@ -1,6 +1,6 @@
-# Word and Number Games
+# Word and Number Games :
 
-## About
+## Intro:
 This repository contains short Python scripts written for simple games such as the following: 
 * **Palindrome**: checks if a string is a palindrome, i.e. it reads the same backwards as forwards.
 * **Pangram**: checks if a given string contains all letters of the alphabet.
